@@ -8,3 +8,4 @@
 
 ### Reselect
 - https://github.com/devSchacht/translations/blob/master/articles/reselect-selector-library-for-redux/readme.md
+- доклады: - https://www.youtube.com/watch?v=elCwlVuEgqs
