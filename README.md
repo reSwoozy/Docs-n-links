@@ -10,3 +10,6 @@
 - https://github.com/devSchacht/translations/blob/master/articles/reselect-selector-library-for-redux/readme.md
 - доклады: - https://www.youtube.com/watch?v=elCwlVuEgqs
 - На кошечках и собачках: https://goo.su/0GwH
+
+### React + Saga
+https://youtu.be/DG9rXV1kI0o
